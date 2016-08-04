@@ -51,6 +51,7 @@
         android:layout_height="wrap_content"
         android:text="Sign In"
         android:id="@+id/button"
+        android:onClick="LogFunc"
         />
 
     <Button
